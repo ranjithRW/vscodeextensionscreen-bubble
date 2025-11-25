@@ -16,7 +16,7 @@ The project is already open in VS Code at:
 - Press: **`Ctrl+Shift+P`** (Windows/Linux) or **`Cmd+Shift+P`** (Mac)
 
 ### Step 4: Run the Command
-- Type: **`Show Bubble Pop Game`**
+- Type: **`obito bubble game`**
 - Press Enter
 
 ### Step 5: ENJOY! 🫧
@@ -132,7 +132,7 @@ Modify `BUBBLE_SPEED_MAX` (line 86)
 1. **Press F5** right now!
 2. **Wait 2-3 seconds** for compilation
 3. **New window opens** with the extension
-4. **Type the command**: "Show Bubble Pop Game"
+4. **Type the command**: "obito bubble game"
 5. **Click bubbles** and have fun! 🫧
 
 Enjoy your bubble popping experience! 🎮✨

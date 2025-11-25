@@ -6,7 +6,7 @@ Your VS Code extension is ready to use! Here's everything you need to know.
 
 1. **Open the project folder in VS Code**
 2. **Press `F5`** to start the extension in debug mode
-3. **Press `Ctrl+Shift+P`** and type: **"Show Bubble Pop Game"**
+3. **Press `Ctrl+Shift+P`** and type: **"obito bubble game"**
 4. **Click bubbles to pop them!** 🫧
 
 ## 📁 What You Got
@@ -44,7 +44,7 @@ Your VS Code extension is ready to use! Here's everything you need to know.
 ```
 Extension Activation
     ↓
-User runs "Show Bubble Pop Game" command
+User runs "obito bubble game" command
     ↓
 WebviewPanel created with HTML/CSS/JS
     ↓
@@ -63,7 +63,7 @@ Each frame:
 
 1. **src/extension.ts** - Main TypeScript file
    - Activates extension
-   - Registers "Show Bubble Pop Game" command
+   - Registers "obito bubble game" command
    - Creates webview panel
    - Embeds HTML/CSS/JavaScript
 
@@ -169,7 +169,7 @@ Want to enhance it? Here are some ideas:
 ## ✅ Verification Checklist
 
 - [x] Extension compiles without errors
-- [x] Command registered: "Show Bubble Pop Game"
+- [x] Command registered: "obito bubble game"
 - [x] Webview panel created successfully
 - [x] Canvas renders full screen
 - [x] 20 bubbles spawn initially
@@ -183,7 +183,7 @@ Want to enhance it? Here are some ideas:
 ## 🚀 Next Steps
 
 1. **Test It**: Press F5 and run the extension
-2. **Play It**: Run the "Show Bubble Pop Game" command
+2. **Play It**: Run the "obito bubble game" command
 3. **Modify It**: Edit src/extension.ts to add features
 4. **Package It**: Use `vsce package` to create .vsix file
 5. **Publish It**: Upload to VS Code Marketplace (optional)

@@ -17,7 +17,7 @@
    - Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
 
 4. **Search and run the command**
-   - Type: `Show Bubble Pop Game`
+   - Type: `obito bubble game`
    - Press Enter
 
 5. **Enjoy the bubbles!** 🫧

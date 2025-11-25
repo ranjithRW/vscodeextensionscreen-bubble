@@ -22,7 +22,7 @@ An interactive VS Code extension that fills your screen with colorful bubbles th
 ### Running the Extension
 
 1. **Open the Extension**: Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
-2. **Search for Command**: Type "Show Bubble Pop Game"
+2. **Search for Command**: Type "obito bubble game"
 3. **Execute**: Press Enter
 4. **Enjoy**: Your screen will fill with colorful bubbles!
 
